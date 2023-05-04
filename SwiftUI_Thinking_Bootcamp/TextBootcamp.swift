@@ -49,18 +49,25 @@ struct TextBootcamp: View {
 //                .font(.body)
 //                .strikethrough(true, color: Color.red)   // 취소선 + 색상
             
-            Text("Hello world this is my first time to learn something awesome")
-                .font(.system(size: 30, weight: .bold, design: .monospaced))
-                // .system 수정자를 통한 글자 설정
-                //  보통은 font(.title)과 같이 사용합니다. 하지만 특정 사이즈를 원할 경우에는 위의 코드처럼 사용합니다.)
-                .multilineTextAlignment(.leading)   // 줄맞춤
-                .baselineOffset(20)    // 줄 간격
-                .kerning(1.5)   // 글자 간격
+//            Text("Hello world this is my first time to learn something awesome")
+//                .font(.system(size: 30, weight: .bold, design: .monospaced))
+//                // .system 수정자를 통한 글자 설정
+//                //  보통은 font(.title)과 같이 사용합니다. 하지만 특정 사이즈를 원할 경우에는 위의 코드처럼 사용합니다.)
+//                .multilineTextAlignment(.leading)   // 줄맞춤
+//                .baselineOffset(20)    // 줄 간격
+//                .kerning(1.5)   // 글자 간격
+//
+//            Text("Hello world this is my first time to learn something awesome")
+//                .font(.system(size: 30, weight: .bold, design: .monospaced))
+//                .multilineTextAlignment(.trailing)
+//                .baselineOffset(-20)   // 줄 간격
             
-            Text("Hello world this is my first time to learn something awesome")
+            Text("Hello world this is my first time to learn something awesome".uppercased())
+                // uppercased() 대문자화, lowercased() 소문자화
                 .font(.system(size: 30, weight: .bold, design: .monospaced))
-                .multilineTextAlignment(.trailing)
-                .baselineOffset(-20)   // 줄 간격
+                .foregroundColor(.red)   // 색상 추가
+                .frame(width: 150, height: 150, alignment: .center)  // 글자 상자 크기 및 정렬 설정
+                .minimumScaleFactor(0.6)  // frame 크기와 맞게 글자 크기 정리 (최소화)
         }
     }
 }
