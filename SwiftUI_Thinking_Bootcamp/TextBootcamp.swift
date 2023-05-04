@@ -30,24 +30,37 @@ struct TextBootcamp: View {
 //                .font(.title2)
 //            Text("title3")
 //                .font(.title3)
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-                .font(.body)
-                .fontWeight(.bold)  // 글자 두께 설정
-                .underline()        //.밑줄
-                .italic()           // 글자 기울기
+//            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+//                .font(.body)
+//                .fontWeight(.bold)  // 글자 두께 설정
+//                .underline()        //.밑줄
+//                .italic()           // 글자 기울기
+//
+//            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+//                .font(.body)
+//                .bold()             // 글자 두계 설정 (bold와 fontWeight 차이가 있다.)
+//                .strikethrough()    // 취소선
+//
+//            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+//                .font(.body)
+//                .underline(true, color: Color.red)   // 밑줄 + 색상 추가
+//
+//            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+//                .font(.body)
+//                .strikethrough(true, color: Color.red)   // 취소선 + 색상
             
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-                .font(.body)
-                .bold()             // 글자 두계 설정 (bold와 fontWeight 차이가 있다.)
-                .strikethrough()    // 취소선
+            Text("Hello world this is my first time to learn something awesome")
+                .font(.system(size: 30, weight: .bold, design: .monospaced))
+                // .system 수정자를 통한 글자 설정
+                //  보통은 font(.title)과 같이 사용합니다. 하지만 특정 사이즈를 원할 경우에는 위의 코드처럼 사용합니다.)
+                .multilineTextAlignment(.leading)   // 줄맞춤
+                .baselineOffset(20)    // 줄 간격
+                .kerning(1.5)   // 글자 간격
             
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-                .font(.body)
-                .underline(true, color: Color.red)   // 밑줄 + 색상 추가
-            
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-                .font(.body)
-                .strikethrough(true, color: Color.red)   // 취소선 + 색상
+            Text("Hello world this is my first time to learn something awesome")
+                .font(.system(size: 30, weight: .bold, design: .monospaced))
+                .multilineTextAlignment(.trailing)
+                .baselineOffset(-20)   // 줄 간격
         }
     }
 }
