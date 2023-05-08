@@ -14,6 +14,7 @@
 		AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFBF2A0421BD0020F2C5 /* TextBootcamp.swift */; };
 		AD1FBFC22A0429BF0020F2C5 /* ShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFC12A0429BF0020F2C5 /* ShapeBootcamp.swift */; };
 		AD1FBFC42A0896D90020F2C5 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFC32A0896D90020F2C5 /* ColorsBootcamp.swift */; };
+		AD1FBFC62A089C820020F2C5 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFC52A089C820020F2C5 /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		AD1FBFBF2A0421BD0020F2C5 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFC12A0429BF0020F2C5 /* ShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFC32A0896D90020F2C5 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFC52A089C820020F2C5 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,10 +62,11 @@
 				AD1FBFB12A041E550020F2C5 /* SwiftUI_Thinking_BootcampApp.swift */,
 				AD1FBFBF2A0421BD0020F2C5 /* TextBootcamp.swift */,
 				AD1FBFC12A0429BF0020F2C5 /* ShapeBootcamp.swift */,
+				AD1FBFC32A0896D90020F2C5 /* ColorsBootcamp.swift */,
+				AD1FBFC52A089C820020F2C5 /* StacksBootcamp.swift */,
 				AD1FBFB32A041E550020F2C5 /* ContentView.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
-				AD1FBFC32A0896D90020F2C5 /* ColorsBootcamp.swift */,
 			);
 			path = SwiftUI_Thinking_Bootcamp;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				AD1FBFC42A0896D90020F2C5 /* ColorsBootcamp.swift in Sources */,
 				AD1FBFC22A0429BF0020F2C5 /* ShapeBootcamp.swift in Sources */,
 				AD1FBFB42A041E550020F2C5 /* ContentView.swift in Sources */,
+				AD1FBFC62A089C820020F2C5 /* StacksBootcamp.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFB22A041E550020F2C5 /* SwiftUI_Thinking_BootcampApp.swift in Sources */,
 			);
