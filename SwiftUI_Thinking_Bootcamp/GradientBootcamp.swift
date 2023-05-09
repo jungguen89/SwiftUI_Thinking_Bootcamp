@@ -19,11 +19,17 @@ struct GradientBootcamp: View {
 //                    endPoint: .trailing)
                 
                 // 방사형 그라데이션 적용
-                RadialGradient(
-                    colors: [Color.blue, Color.yellow],
+//                RadialGradient(
+//                    colors: [Color.blue, Color.yellow],
+//                    center: .center,
+//                    startRadius: 20,
+//                    endRadius: 150)
+                
+                // 각도 그라데이션 적용
+                AngularGradient(
+                    colors: [Color.blue, Color.gray],
                     center: .center,
-                    startRadius: 20,
-                    endRadius: 150)
+                    angle: .degrees(120))
 
             )
             .frame(width: 300, height: 200)
