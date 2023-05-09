@@ -13,10 +13,17 @@ struct GradientBootcamp: View {
             .fill(
 //                Color.red
                 // 선형 그라데이션 적용
-                LinearGradient(
-                    colors:[Color.red, Color.blue,Color.yellow],
-                    startPoint: .leading,
-                    endPoint: .trailing)
+//                LinearGradient(
+//                    colors:[Color.red, Color.blue,Color.yellow],
+//                    startPoint: .leading,
+//                    endPoint: .trailing)
+                
+                // 방사형 그라데이션 적용
+                RadialGradient(
+                    colors: [Color.blue, Color.yellow],
+                    center: .center,
+                    startRadius: 20,
+                    endRadius: 150)
 
             )
             .frame(width: 300, height: 200)
