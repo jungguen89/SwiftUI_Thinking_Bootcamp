@@ -20,6 +20,7 @@
 		AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFCB2A09FE220020F2C5 /* ImageBootcamp.swift */; };
 		AD1FBFCE2A0AA30D0020F2C5 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFCD2A0AA30D0020F2C5 /* FrameBootcamp.swift */; };
 		AD1FBFD02A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFCF2A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift */; };
+		AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD12A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		AD1FBFCB2A09FE220020F2C5 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFCD2A0AA30D0020F2C5 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFCF2A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFD12A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				AD1FBFCB2A09FE220020F2C5 /* ImageBootcamp.swift */,
 				AD1FBFCD2A0AA30D0020F2C5 /* FrameBootcamp.swift */,
 				AD1FBFCF2A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift */,
+				AD1FBFD12A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift */,
 				AD1FBFB32A041E550020F2C5 /* ContentView.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -166,6 +169,7 @@
 			files = (
 				AD1FBFC82A09E8FB0020F2C5 /* GradientBootcamp.swift in Sources */,
 				AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */,
+				AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				AD1FBFC42A0896D90020F2C5 /* ColorsBootcamp.swift in Sources */,
 				AD1FBFC22A0429BF0020F2C5 /* ShapeBootcamp.swift in Sources */,
 				AD1FBFCA2A09F7F20020F2C5 /* IconBootcamp.swift in Sources */,
