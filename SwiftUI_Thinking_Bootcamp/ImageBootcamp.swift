@@ -20,6 +20,12 @@ struct ImageBootcamp: View {
             )
             .overlay() {
                 Circle()
+                    .fill(
+                        // 그라데이션 적용해보기
+                        .linearGradient(colors: [Color.yellow, Color.green],
+                                        startPoint: .leading,
+                                        endPoint: .trailing)
+                    )
                     .frame(width: 70, height: 70)
                     .overlay(
                         Text("1")
