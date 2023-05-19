@@ -13,19 +13,21 @@ struct initializerBootcamp: View {
     let count: Int
     let title: String
     
-    init(count: Int, fruit: Fruit) {
-        self.count = count
+    init(fruit: Fruit) {
         
         switch fruit {
         case .apple :
             backgroundColor = .red
             title = "Apples"
+            count = 23
         case .orange :
             backgroundColor = .orange
             title = "Oranges"
+            count = 333
         case .grape:
             backgroundColor = .purple
             title = "Grape"
+            count = 100
         }
     }
     
@@ -54,9 +56,9 @@ struct initializerBootcamp: View {
 struct initializerBootcamp_Previews: PreviewProvider {
     static var previews: some View {
         VStack {
-            initializerBootcamp(count: 20, fruit: .apple)
-            initializerBootcamp(count: 20, fruit: .orange)
-            initializerBootcamp(count: 20, fruit: .grape)
+            initializerBootcamp(fruit: .apple)
+            initializerBootcamp(fruit: .orange)
+            initializerBootcamp(fruit: .grape)
         }
         
     }

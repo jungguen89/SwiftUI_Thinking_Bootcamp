@@ -23,6 +23,7 @@
 		AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD12A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift */; };
 		AD1FBFD42A0CD5550020F2C5 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD32A0CD5550020F2C5 /* SpacerBootcamp.swift */; };
 		AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD52A166AC70020F2C5 /* initializerBootcamp.swift */; };
+		AD1FBFD82A181B110020F2C5 /* ForeachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		AD1FBFD12A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFD32A0CD5550020F2C5 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFD52A166AC70020F2C5 /* initializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initializerBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				AD1FBFD32A0CD5550020F2C5 /* SpacerBootcamp.swift */,
 				AD1FBFB32A041E550020F2C5 /* ContentView.swift */,
 				AD1FBFD52A166AC70020F2C5 /* initializerBootcamp.swift */,
+				AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
 			);
@@ -174,6 +177,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD1FBFC82A09E8FB0020F2C5 /* GradientBootcamp.swift in Sources */,
+				AD1FBFD82A181B110020F2C5 /* ForeachBootcamp.swift in Sources */,
 				AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */,
 				AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */,
