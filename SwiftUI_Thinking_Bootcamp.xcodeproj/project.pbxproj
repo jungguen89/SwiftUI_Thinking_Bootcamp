@@ -25,6 +25,7 @@
 		AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD52A166AC70020F2C5 /* initializerBootcamp.swift */; };
 		AD1FBFD82A181B110020F2C5 /* ForeachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */; };
 		AD1FBFDA2A18AF570020F2C5 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD92A18AF570020F2C5 /* ScrollViewBootcamp.swift */; };
+		AD1FBFDC2A1DC61C0020F2C5 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		AD1FBFD52A166AC70020F2C5 /* initializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initializerBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFD92A18AF570020F2C5 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				AD1FBFD52A166AC70020F2C5 /* initializerBootcamp.swift */,
 				AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */,
 				AD1FBFD92A18AF570020F2C5 /* ScrollViewBootcamp.swift */,
+				AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 				AD1FBFD02A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFD42A0CD5550020F2C5 /* SpacerBootcamp.swift in Sources */,
+				AD1FBFDC2A1DC61C0020F2C5 /* GridBootcamp.swift in Sources */,
 				AD1FBFCE2A0AA30D0020F2C5 /* FrameBootcamp.swift in Sources */,
 				AD1FBFB22A041E550020F2C5 /* SwiftUI_Thinking_BootcampApp.swift in Sources */,
 			);

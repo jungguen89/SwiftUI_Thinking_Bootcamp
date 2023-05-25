@@ -13,10 +13,10 @@ struct ScrollViewBootcamp: View {
         
         ScrollView {
             VStack {
-                ForEach(0..<10) { index in
+                ForEach(0..<30) { index in
                     ScrollView(.horizontal, showsIndicators: false) {
                         HStack {
-                            ForEach(0..<10) { index in
+                            ForEach(0..<30) { index in
                                 Circle()
                                     .fill(Color.blue)
                                     .frame(width: 100, height: 100)
