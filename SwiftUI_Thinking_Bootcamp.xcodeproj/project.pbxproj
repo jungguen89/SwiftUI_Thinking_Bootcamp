@@ -27,6 +27,7 @@
 		AD1FBFDA2A18AF570020F2C5 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFD92A18AF570020F2C5 /* ScrollViewBootcamp.swift */; };
 		AD1FBFDC2A1DC61C0020F2C5 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */; };
 		AD1FBFDE2A23AA310020F2C5 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */; };
+		AD1FBFE02A23BFCE0020F2C5 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		AD1FBFD92A18AF570020F2C5 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		AD1FBFA52A041E550020F2C5 = {
 			isa = PBXGroup;
 			children = (
+				AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */,
 				AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */,
 				AD1FBFB02A041E550020F2C5 /* SwiftUI_Thinking_Bootcamp */,
 				AD1FBFAF2A041E550020F2C5 /* Products */,
@@ -193,6 +196,7 @@
 				AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */,
 				AD1FBFC42A0896D90020F2C5 /* ColorsBootcamp.swift in Sources */,
 				AD1FBFC22A0429BF0020F2C5 /* ShapeBootcamp.swift in Sources */,
+				AD1FBFE02A23BFCE0020F2C5 /* ButtonsBootcamp.swift in Sources */,
 				AD1FBFDE2A23AA310020F2C5 /* SafeAreaBootcamp.swift in Sources */,
 				AD1FBFCA2A09F7F20020F2C5 /* IconBootcamp.swift in Sources */,
 				AD1FBFB42A041E550020F2C5 /* ContentView.swift in Sources */,
