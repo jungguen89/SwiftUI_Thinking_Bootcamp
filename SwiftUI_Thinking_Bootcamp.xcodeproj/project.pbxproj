@@ -28,6 +28,8 @@
 		AD1FBFDC2A1DC61C0020F2C5 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */; };
 		AD1FBFDE2A23AA310020F2C5 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */; };
 		AD1FBFE02A23BFCE0020F2C5 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */; };
+		AD1FBFE22A23C4500020F2C5 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFE12A23C4500020F2C5 /* StateBootcamp.swift */; };
+		AD1FBFE42A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFE32A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +55,8 @@
 		AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFE12A23C4500020F2C5 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFE32A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,8 +73,6 @@
 		AD1FBFA52A041E550020F2C5 = {
 			isa = PBXGroup;
 			children = (
-				AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */,
-				AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */,
 				AD1FBFB02A041E550020F2C5 /* SwiftUI_Thinking_Bootcamp */,
 				AD1FBFAF2A041E550020F2C5 /* Products */,
 			);
@@ -104,6 +106,10 @@
 				AD1FBFD72A181B110020F2C5 /* ForeachBootcamp.swift */,
 				AD1FBFD92A18AF570020F2C5 /* ScrollViewBootcamp.swift */,
 				AD1FBFDB2A1DC61C0020F2C5 /* GridBootcamp.swift */,
+				AD1FBFDD2A23AA310020F2C5 /* SafeAreaBootcamp.swift */,
+				AD1FBFDF2A23BFCE0020F2C5 /* ButtonsBootcamp.swift */,
+				AD1FBFE12A23C4500020F2C5 /* StateBootcamp.swift */,
+				AD1FBFE32A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
 			);
@@ -188,12 +194,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD1FBFE22A23C4500020F2C5 /* StateBootcamp.swift in Sources */,
 				AD1FBFC82A09E8FB0020F2C5 /* GradientBootcamp.swift in Sources */,
 				AD1FBFD82A181B110020F2C5 /* ForeachBootcamp.swift in Sources */,
 				AD1FBFDA2A18AF570020F2C5 /* ScrollViewBootcamp.swift in Sources */,
 				AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */,
 				AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */,
+				AD1FBFE42A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				AD1FBFC42A0896D90020F2C5 /* ColorsBootcamp.swift in Sources */,
 				AD1FBFC22A0429BF0020F2C5 /* ShapeBootcamp.swift in Sources */,
 				AD1FBFE02A23BFCE0020F2C5 /* ButtonsBootcamp.swift in Sources */,
