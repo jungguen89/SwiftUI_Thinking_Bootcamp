@@ -10,6 +10,7 @@ import SwiftUI
 struct ExtractedFunctionsBootcamp: View {
     
     @State var backgroundColor: Color = Color.pink
+    @State var toggleColor = true
     
     var body: some View {
         ZStack {
@@ -23,9 +24,11 @@ struct ExtractedFunctionsBootcamp: View {
     }
     
     var contentLayer: some View {
-        VStack {
+        
+        VStack (spacing: 30) {
             Text("Title")
                 .font(.headline)
+            
             Button(action: {
                 buttonPressed()
             }, label: {
@@ -36,6 +39,18 @@ struct ExtractedFunctionsBootcamp: View {
                     .background(Color.black)
                     .cornerRadius(10)
             })
+            
+            Toggle(isOn: $toggleColor, label: {
+                Text("Toggle Button")
+                    .foregroundColor(toggleColor ? Color.yellow : Color.blue)
+            })
+            
+            Toggle(
+                "Toggle Button",
+                isOn: $toggleColor)
+            .toggleStyle(.button)
+            .font(.largeTitle)
+            .foregroundColor(toggleColor ? Color.yellow : Color.black)
         }
     }
     
