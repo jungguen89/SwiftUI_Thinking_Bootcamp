@@ -36,6 +36,7 @@
 		AD1FBFEE2A2738CF0020F2C5 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFED2A2738CF0020F2C5 /* ConditionalBootcamp.swift */; };
 		AD1FBFF02A273DB60020F2C5 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFEF2A273DB60020F2C5 /* TernaryBootcamp.swift */; };
 		AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFF12A277FF70020F2C5 /* AnimationBootcamp.swift */; };
+		AD1FBFF42A279B7F0020F2C5 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFF32A279B7F0020F2C5 /* AnimationTimingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		AD1FBFED2A2738CF0020F2C5 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFEF2A273DB60020F2C5 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFF12A277FF70020F2C5 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFF32A279B7F0020F2C5 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				AD1FBFED2A2738CF0020F2C5 /* ConditionalBootcamp.swift */,
 				AD1FBFEF2A273DB60020F2C5 /* TernaryBootcamp.swift */,
 				AD1FBFF12A277FF70020F2C5 /* AnimationBootcamp.swift */,
+				AD1FBFF32A279B7F0020F2C5 /* AnimationTimingBootcamp.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
 			);
@@ -233,6 +236,7 @@
 				AD1FBFD02A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */,
+				AD1FBFF42A279B7F0020F2C5 /* AnimationTimingBootcamp.swift in Sources */,
 				AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */,
 				AD1FBFD42A0CD5550020F2C5 /* SpacerBootcamp.swift in Sources */,
 				AD1FBFF02A273DB60020F2C5 /* TernaryBootcamp.swift in Sources */,
