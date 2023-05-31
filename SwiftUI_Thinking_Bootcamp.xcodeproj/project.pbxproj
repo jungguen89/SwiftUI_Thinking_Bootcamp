@@ -32,6 +32,8 @@
 		AD1FBFE42A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFE32A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift */; };
 		AD1FBFE62A24A3D60020F2C5 /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFE52A24A3D60020F2C5 /* ExtractSubviewsBootcamp.swift */; };
 		AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFE72A24AA100020F2C5 /* BindingBootcamp.swift */; };
+		AD1FBFEC2A24AE6C0020F2C5 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFEB2A24AE6C0020F2C5 /* ButtonView.swift */; };
+		AD1FBFEE2A2738CF0020F2C5 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1FBFED2A2738CF0020F2C5 /* ConditionalBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +63,8 @@
 		AD1FBFE32A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFE52A24A3D60020F2C5 /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		AD1FBFE72A24AA100020F2C5 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		AD1FBFEB2A24AE6C0020F2C5 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		AD1FBFED2A2738CF0020F2C5 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +120,8 @@
 				AD1FBFE32A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift */,
 				AD1FBFE52A24A3D60020F2C5 /* ExtractSubviewsBootcamp.swift */,
 				AD1FBFE72A24AA100020F2C5 /* BindingBootcamp.swift */,
+				AD1FBFEB2A24AE6C0020F2C5 /* ButtonView.swift */,
+				AD1FBFED2A2738CF0020F2C5 /* ConditionalBootcamp.swift */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
 			);
@@ -202,10 +208,12 @@
 			files = (
 				AD1FBFE22A23C4500020F2C5 /* StateBootcamp.swift in Sources */,
 				AD1FBFC82A09E8FB0020F2C5 /* GradientBootcamp.swift in Sources */,
+				AD1FBFEC2A24AE6C0020F2C5 /* ButtonView.swift in Sources */,
 				AD1FBFD82A181B110020F2C5 /* ForeachBootcamp.swift in Sources */,
 				AD1FBFDA2A18AF570020F2C5 /* ScrollViewBootcamp.swift in Sources */,
 				AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */,
 				AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */,
+				AD1FBFEE2A2738CF0020F2C5 /* ConditionalBootcamp.swift in Sources */,
 				AD1FBFE62A24A3D60020F2C5 /* ExtractSubviewsBootcamp.swift in Sources */,
 				AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */,
 				AD1FBFE42A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift in Sources */,
