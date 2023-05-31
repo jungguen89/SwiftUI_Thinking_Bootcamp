@@ -10,6 +10,7 @@ import SwiftUI
 struct TernaryBootcamp: View {
     
     @State var isStartingState: Bool = false
+    @State var isChangingState: Bool = false
     
     var body: some View {
         VStack {
@@ -23,6 +24,23 @@ struct TernaryBootcamp: View {
                 .frame(
                     width: isStartingState ? 150 : 200,
                     height: isStartingState ? 150 : 200)
+            
+            Spacer()
+            
+            Button(action: {
+                isChangingState.toggle()
+            }, label: {
+                Text("Change the shape!!!")
+                    .font(.system(size:25))
+                    .fontWeight(.bold)
+            })
+            
+            RoundedRectangle(cornerRadius: 10)
+                .fill(isChangingState ? Color.red : Color.yellow)
+                .frame(
+                    width: isChangingState ? 100 : 50,
+                    height: isChangingState ? 100: 50
+                )
             
             // if - else 문을 통해 isStartingState의 값에 따른 색상 변경
 //            if isStartingState {
