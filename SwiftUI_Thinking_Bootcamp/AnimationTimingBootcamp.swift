@@ -10,8 +10,8 @@ import SwiftUI
 struct AnimationTimingBootcamp: View {
     
     @State var isAnimating: Bool = false
-    
-    let timing: Double = 5.0
+    @State var larger =  true
+    let timing: Double = 20.0
     
     var body: some View {
         VStack {
@@ -19,14 +19,15 @@ struct AnimationTimingBootcamp: View {
             Button("Button", action: {
                 isAnimating.toggle()
             })
+        
             
             RoundedRectangle(cornerRadius: 20)
                 .frame(width: isAnimating ? 350 : 50, height: 100)
-                .animation(.linear(duration: timing))
+                .animation(.linear(duration: timing), value: larger)
             
             RoundedRectangle(cornerRadius: 20)
                 .frame(width: isAnimating ? 350 : 50, height: 100)
-                .animation(.easeIn(duration: timing))
+                .animation(.easeIn(duration: timing), value: larger)
             
             RoundedRectangle(cornerRadius: 20)
                 .frame(width: isAnimating ? 350 : 50, height: 100)
