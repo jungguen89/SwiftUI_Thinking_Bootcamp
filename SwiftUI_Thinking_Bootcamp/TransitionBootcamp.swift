@@ -37,7 +37,7 @@ struct TransitionBootcamp: View {
                     // 특정 방향으로 들어와서 특정 방향으로 나가게 함
                     .transition(.asymmetric(
                         insertion: .move(edge: .top),
-                        removal: AnyTransition.opacity.animation(.easeOut)))
+                        removal:.move(edge: .bottom)))
                 
                     // opacity를 통해 형상을 투명, 불투명으로 화면에 표시함
                     //.opacity(showView ? 1.0 : 0.0)
