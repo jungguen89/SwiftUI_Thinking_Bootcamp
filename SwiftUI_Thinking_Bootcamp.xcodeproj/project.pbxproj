@@ -40,6 +40,7 @@
 		ADDCAAFF2A29DF0B00E1374F /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAAFE2A29DF0B00E1374F /* TransitionBootcamp.swift */; };
 		ADDCAB022A2CBD4C00E1374F /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAB012A2CBD4C00E1374F /* SheetsBootcamp.swift */; };
 		ADDCAB042A2DEB2A00E1374F /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAB032A2DEB2A00E1374F /* PopoverBootcamp.swift */; };
+		ADDCAB062A2E464B00E1374F /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAB052A2E464B00E1374F /* NavigationViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftBasic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		ADDCAB012A2CBD4C00E1374F /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		ADDCAB032A2DEB2A00E1374F /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		ADDCAB052A2E464B00E1374F /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				ADDCAAFE2A29DF0B00E1374F /* TransitionBootcamp.swift */,
 				ADDCAB012A2CBD4C00E1374F /* SheetsBootcamp.swift */,
 				ADDCAB032A2DEB2A00E1374F /* PopoverBootcamp.swift */,
+				ADDCAB052A2E464B00E1374F /* NavigationViewBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -249,6 +252,7 @@
 				AD1FBFD02A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */,
+				ADDCAB062A2E464B00E1374F /* NavigationViewBootcamp.swift in Sources */,
 				AD1FBFF42A279B7F0020F2C5 /* AnimationTimingBootcamp.swift in Sources */,
 				AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */,
 				ADDCAB022A2CBD4C00E1374F /* SheetsBootcamp.swift in Sources */,
