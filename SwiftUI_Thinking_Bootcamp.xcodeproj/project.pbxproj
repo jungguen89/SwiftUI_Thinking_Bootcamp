@@ -44,6 +44,7 @@
 		ADDCAB042A2DEB2A00E1374F /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAB032A2DEB2A00E1374F /* PopoverBootcamp.swift */; };
 		ADDCAB082A2FBD1E00E1374F /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAB072A2FBD1E00E1374F /* ListBootcamp.swift */; };
 		ADE33C082A3352F100B0E4D4 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C072A3352F100B0E4D4 /* ContextMenuBootcamp.swift */; };
+		ADE33C0A2A34996000B0E4D4 /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C092A34996000B0E4D4 /* TextfieldBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +87,7 @@
 		ADDCAB032A2DEB2A00E1374F /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		ADDCAB072A2FBD1E00E1374F /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		ADE33C072A3352F100B0E4D4 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
+		ADE33C092A34996000B0E4D4 /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				ADDCAB072A2FBD1E00E1374F /* ListBootcamp.swift */,
 				AD6FFDDA2A31EB5800F6F7C3 /* ActionsheetBootcamp.swift */,
 				ADE33C072A3352F100B0E4D4 /* ContextMenuBootcamp.swift */,
+				ADE33C092A34996000B0E4D4 /* TextfieldBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -266,6 +269,7 @@
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */,
 				AD1FBFF42A279B7F0020F2C5 /* AnimationTimingBootcamp.swift in Sources */,
+				ADE33C0A2A34996000B0E4D4 /* TextfieldBootcamp.swift in Sources */,
 				AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */,
 				ADDCAB022A2CBD4C00E1374F /* SheetsBootcamp.swift in Sources */,
 				AD1FBFD42A0CD5550020F2C5 /* SpacerBootcamp.swift in Sources */,
