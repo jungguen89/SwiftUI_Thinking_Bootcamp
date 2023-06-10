@@ -14,33 +14,32 @@ struct TextfieldBootcamp: View {
     
     var body: some View {
         NavigationView {
-            VStack {
-                TextField("Type something here...", text: $textFieldText)
+            ScrollView {
+                
+                VStack {
+                    TextField("Type something here...", text: $textFieldText)
                     //.textFieldStyle(RoundedBorderTextFieldStyle())
-                    .padding()
-                    .background(Color.gray.opacity(0.3).cornerRadius(10))
-                    .foregroundColor(.red)
-                    .font(.headline)
-                
-                Button(action: {
-                    if textIsAppropriate() {
-                        saveText()
-                    }
-                }, label: {
-                    Text("save".uppercased())
                         .padding()
-                        .frame(maxWidth: .infinity)
-                        .background(textIsAppropriate() ? Color.green : Color.gray)
-                        .cornerRadius(10)
-                        .foregroundColor(.white)
+                        .background(Color.gray.opacity(0.3).cornerRadius(10))
+                        .foregroundColor(.red)
                         .font(.headline)
-                })
-                
-                // 버튼을 특정 조건에 따른 비활성화
-                .disabled(!textIsAppropriate())
-                
-                
-                ScrollView {
+                    
+                    Button(action: {
+                        if textIsAppropriate() {
+                            saveText()
+                        }
+                    }, label: {
+                        Text("save".uppercased())
+                            .padding()
+                            .frame(maxWidth: .infinity)
+                            .background(textIsAppropriate() ? Color.green : Color.gray)
+                            .cornerRadius(10)
+                            .foregroundColor(.white)
+                            .font(.headline)
+                    })
+                    
+                    // 버튼을 특정 조건에 따른 비활성화
+                    .disabled(!textIsAppropriate())
                     
                     ForEach(dataArray, id:\.self) { text in
                         Text(text)
@@ -50,11 +49,12 @@ struct TextfieldBootcamp: View {
                             .background(Color.yellow.cornerRadius(10))
                             .font(.headline)
                     }
+ 
+                    Spacer()
                 }
-                
-                Spacer()
+                .padding()
             }
-            .padding()
+            
             .navigationTitle("TextField Bootcamp")
         }
     }

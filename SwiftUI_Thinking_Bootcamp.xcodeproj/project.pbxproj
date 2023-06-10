@@ -45,6 +45,7 @@
 		ADDCAB082A2FBD1E00E1374F /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDCAB072A2FBD1E00E1374F /* ListBootcamp.swift */; };
 		ADE33C082A3352F100B0E4D4 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C072A3352F100B0E4D4 /* ContextMenuBootcamp.swift */; };
 		ADE33C0A2A34996000B0E4D4 /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C092A34996000B0E4D4 /* TextfieldBootcamp.swift */; };
+		ADE33C0C2A34CFE600B0E4D4 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C0B2A34CFE600B0E4D4 /* TextEditorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		ADDCAB072A2FBD1E00E1374F /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		ADE33C072A3352F100B0E4D4 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 		ADE33C092A34996000B0E4D4 /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
+		ADE33C0B2A34CFE600B0E4D4 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				AD6FFDDA2A31EB5800F6F7C3 /* ActionsheetBootcamp.swift */,
 				ADE33C072A3352F100B0E4D4 /* ContextMenuBootcamp.swift */,
 				ADE33C092A34996000B0E4D4 /* TextfieldBootcamp.swift */,
+				ADE33C0B2A34CFE600B0E4D4 /* TextEditorBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -245,6 +248,7 @@
 				AD1FBFE22A23C4500020F2C5 /* StateBootcamp.swift in Sources */,
 				AD1FBFC82A09E8FB0020F2C5 /* GradientBootcamp.swift in Sources */,
 				AD1FBFEC2A24AE6C0020F2C5 /* ButtonView.swift in Sources */,
+				ADE33C0C2A34CFE600B0E4D4 /* TextEditorBootcamp.swift in Sources */,
 				AD1FBFD82A181B110020F2C5 /* ForeachBootcamp.swift in Sources */,
 				AD1FBFDA2A18AF570020F2C5 /* ScrollViewBootcamp.swift in Sources */,
 				AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */,
