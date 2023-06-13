@@ -50,6 +50,7 @@
 		ADE33C102A37425A00B0E4D4 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C0F2A37425A00B0E4D4 /* PickerBootcamp.swift */; };
 		ADE33C122A383EB800B0E4D4 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C112A383EB800B0E4D4 /* DatePickerBootcamp.swift */; };
 		ADE33C142A38547700B0E4D4 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C132A38547700B0E4D4 /* StepperBootcamp.swift */; };
+		ADE33C162A38596C00B0E4D4 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C152A38596C00B0E4D4 /* SliderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -98,6 +99,7 @@
 		ADE33C0F2A37425A00B0E4D4 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		ADE33C112A383EB800B0E4D4 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		ADE33C132A38547700B0E4D4 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
+		ADE33C152A38596C00B0E4D4 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 				ADE33C0F2A37425A00B0E4D4 /* PickerBootcamp.swift */,
 				ADE33C112A383EB800B0E4D4 /* DatePickerBootcamp.swift */,
 				ADE33C132A38547700B0E4D4 /* StepperBootcamp.swift */,
+				ADE33C152A38596C00B0E4D4 /* SliderBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -283,6 +286,7 @@
 				AD1FBFCA2A09F7F20020F2C5 /* IconBootcamp.swift in Sources */,
 				AD1FBFB42A041E550020F2C5 /* ContentView.swift in Sources */,
 				ADE33C0E2A35901200B0E4D4 /* ToggleBootcamp.swift in Sources */,
+				ADE33C162A38596C00B0E4D4 /* SliderBootcamp.swift in Sources */,
 				AD1FBFC62A089C820020F2C5 /* StacksBootcamp.swift in Sources */,
 				AD1FBFD02A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
