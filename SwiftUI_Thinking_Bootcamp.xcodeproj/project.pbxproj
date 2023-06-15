@@ -53,6 +53,7 @@
 		ADE33C162A38596C00B0E4D4 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C152A38596C00B0E4D4 /* SliderBootcamp.swift */; };
 		ADE33C182A3871FC00B0E4D4 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C172A3871FC00B0E4D4 /* TabViewBootcamp.swift */; };
 		ADEA90162A3A63AA003EE6F3 /* DocumnetationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90152A3A63AA003EE6F3 /* DocumnetationBootcamp.swift */; };
+		ADEA90182A3AA9DF003EE6F3 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -104,6 +105,7 @@
 		ADE33C152A38596C00B0E4D4 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		ADE33C172A3871FC00B0E4D4 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		ADEA90152A3A63AA003EE6F3 /* DocumnetationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumnetationBootcamp.swift; sourceTree = "<group>"; };
+		ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 				ADE33C152A38596C00B0E4D4 /* SliderBootcamp.swift */,
 				ADE33C172A3871FC00B0E4D4 /* TabViewBootcamp.swift */,
 				ADEA90152A3A63AA003EE6F3 /* DocumnetationBootcamp.swift */,
+				ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -303,6 +306,7 @@
 				ADE33C0A2A34996000B0E4D4 /* TextfieldBootcamp.swift in Sources */,
 				AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */,
 				ADDCAB022A2CBD4C00E1374F /* SheetsBootcamp.swift in Sources */,
+				ADEA90182A3AA9DF003EE6F3 /* OnAppearBootcamp.swift in Sources */,
 				AD1FBFD42A0CD5550020F2C5 /* SpacerBootcamp.swift in Sources */,
 				AD1FBFF02A273DB60020F2C5 /* TernaryBootcamp.swift in Sources */,
 				ADE33C122A383EB800B0E4D4 /* DatePickerBootcamp.swift in Sources */,
