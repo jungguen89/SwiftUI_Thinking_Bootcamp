@@ -54,6 +54,7 @@
 		ADE33C182A3871FC00B0E4D4 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE33C172A3871FC00B0E4D4 /* TabViewBootcamp.swift */; };
 		ADEA90162A3A63AA003EE6F3 /* DocumnetationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90152A3A63AA003EE6F3 /* DocumnetationBootcamp.swift */; };
 		ADEA90182A3AA9DF003EE6F3 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */; };
+		ADEA901A2A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90192A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -106,6 +107,7 @@
 		ADE33C172A3871FC00B0E4D4 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		ADEA90152A3A63AA003EE6F3 /* DocumnetationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumnetationBootcamp.swift; sourceTree = "<group>"; };
 		ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		ADEA90192A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +185,7 @@
 				ADE33C172A3871FC00B0E4D4 /* TabViewBootcamp.swift */,
 				ADEA90152A3A63AA003EE6F3 /* DocumnetationBootcamp.swift */,
 				ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */,
+				ADEA90192A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -299,6 +302,7 @@
 				ADE33C0E2A35901200B0E4D4 /* ToggleBootcamp.swift in Sources */,
 				ADE33C162A38596C00B0E4D4 /* SliderBootcamp.swift in Sources */,
 				AD1FBFC62A089C820020F2C5 /* StacksBootcamp.swift in Sources */,
+				ADEA901A2A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift in Sources */,
 				AD1FBFD02A0AA7A70020F2C5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */,
