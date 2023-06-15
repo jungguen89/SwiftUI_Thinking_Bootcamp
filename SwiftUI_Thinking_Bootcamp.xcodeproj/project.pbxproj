@@ -56,6 +56,7 @@
 		ADEA90182A3AA9DF003EE6F3 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */; };
 		ADEA901A2A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90192A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift */; };
 		ADEA901C2A3ABE40003EE6F3 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA901B2A3ABE3F003EE6F3 /* TapGestureBootcamp.swift */; };
+		ADEA901E2A3AC12D003EE6F3 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA901D2A3AC12D003EE6F3 /* ModelBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -110,6 +111,7 @@
 		ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		ADEA90192A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 		ADEA901B2A3ABE3F003EE6F3 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		ADEA901D2A3AC12D003EE6F3 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 				ADEA90172A3AA9DF003EE6F3 /* OnAppearBootcamp.swift */,
 				ADEA90192A3AB56D003EE6F3 /* IfLetGuardBootcamp.swift */,
 				ADEA901B2A3ABE3F003EE6F3 /* TapGestureBootcamp.swift */,
+				ADEA901D2A3AC12D003EE6F3 /* ModelBootcamp.swift */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
 				AD1FBFB72A041E560020F2C5 /* Preview Content */,
@@ -278,6 +281,7 @@
 				AD1FBFE22A23C4500020F2C5 /* StateBootcamp.swift in Sources */,
 				AD1FBFC82A09E8FB0020F2C5 /* GradientBootcamp.swift in Sources */,
 				AD1FBFEC2A24AE6C0020F2C5 /* ButtonView.swift in Sources */,
+				ADEA901E2A3AC12D003EE6F3 /* ModelBootcamp.swift in Sources */,
 				ADE33C0C2A34CFE600B0E4D4 /* TextEditorBootcamp.swift in Sources */,
 				ADEA90162A3A63AA003EE6F3 /* DocumnetationBootcamp.swift in Sources */,
 				ADE33C182A3871FC00B0E4D4 /* TabViewBootcamp.swift in Sources */,
