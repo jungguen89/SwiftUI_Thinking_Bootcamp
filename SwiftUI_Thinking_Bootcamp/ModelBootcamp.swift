@@ -20,6 +20,7 @@ struct ModelBootcamp: View {
     
     @State var users: [UserModel] = [
 //        "Nick", "Emilly", "Samantha", "Chris"
+        
         UserModel(displayName: "Nick", userName: "nick123", followercount: 100, isVerified: true),
         UserModel(displayName: "Emily", userName: "Emily123", followercount: 2222, isVerified: false),
         UserModel(displayName: "Samatha", userName: "Samatha333", followercount: 34222, isVerified: false)
