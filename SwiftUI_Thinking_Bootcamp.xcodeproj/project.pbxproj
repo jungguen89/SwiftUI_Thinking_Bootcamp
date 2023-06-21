@@ -62,6 +62,7 @@
 		ADEA90302A41B267003EE6F3 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA902F2A41B267003EE6F3 /* IntroView.swift */; };
 		ADEA90332A41BF67003EE6F3 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90322A41BF67003EE6F3 /* OnboardingView.swift */; };
 		ADEA90352A41E675003EE6F3 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90342A41E675003EE6F3 /* ProfileView.swift */; };
+		ADEA90372A428860003EE6F3 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90362A428860003EE6F3 /* AsyncImageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -122,6 +123,7 @@
 		ADEA902F2A41B267003EE6F3 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		ADEA90322A41BF67003EE6F3 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		ADEA90342A41E675003EE6F3 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		ADEA90362A428860003EE6F3 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				ADEA901D2A3AC12D003EE6F3 /* ModelBootcamp.swift */,
 				ADEA902B2A3C4AD2003EE6F3 /* ViewModelBootcamp.swift */,
 				ADEA902D2A417D9B003EE6F3 /* AppStorageBootcamp.swift */,
+				ADEA90362A428860003EE6F3 /* AsyncImageBootcamp.swift */,
 				ADEA90312A41BF41003EE6F3 /* OnboardingView */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
@@ -331,6 +334,7 @@
 				AD1FBFDE2A23AA310020F2C5 /* SafeAreaBootcamp.swift in Sources */,
 				AD1FBFCA2A09F7F20020F2C5 /* IconBootcamp.swift in Sources */,
 				AD1FBFB42A041E550020F2C5 /* ContentView.swift in Sources */,
+				ADEA90372A428860003EE6F3 /* AsyncImageBootcamp.swift in Sources */,
 				ADE33C0E2A35901200B0E4D4 /* ToggleBootcamp.swift in Sources */,
 				ADE33C162A38596C00B0E4D4 /* SliderBootcamp.swift in Sources */,
 				ADEA902E2A417D9B003EE6F3 /* AppStorageBootcamp.swift in Sources */,
