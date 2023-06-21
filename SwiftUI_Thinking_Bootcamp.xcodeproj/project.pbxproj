@@ -66,6 +66,7 @@
 		ADEA90392A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90382A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift */; };
 		ADEA903B2A42974F003EE6F3 /* TextSectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA903A2A42974F003EE6F3 /* TextSectionBootcamp.swift */; };
 		ADEA903D2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA903C2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift */; };
+		ADEA903F2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA903E2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,6 +131,7 @@
 		ADEA90382A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialBootcamp.swift; sourceTree = "<group>"; };
 		ADEA903A2A42974F003EE6F3 /* TextSectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSectionBootcamp.swift; sourceTree = "<group>"; };
 		ADEA903C2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		ADEA903E2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				ADEA90382A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift */,
 				ADEA903A2A42974F003EE6F3 /* TextSectionBootcamp.swift */,
 				ADEA903C2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift */,
+				ADEA903E2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift */,
 				ADEA90312A41BF41003EE6F3 /* OnboardingView */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
@@ -325,6 +328,7 @@
 				ADEA90352A41E675003EE6F3 /* ProfileView.swift in Sources */,
 				AD1FBFDA2A18AF570020F2C5 /* ScrollViewBootcamp.swift in Sources */,
 				AD1FBFCC2A09FE220020F2C5 /* ImageBootcamp.swift in Sources */,
+				ADEA903F2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift in Sources */,
 				ADE33C082A3352F100B0E4D4 /* ContextMenuBootcamp.swift in Sources */,
 				AD1FBFD22A0AAE410020F2C5 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				AD1FBFEE2A2738CF0020F2C5 /* ConditionalBootcamp.swift in Sources */,
