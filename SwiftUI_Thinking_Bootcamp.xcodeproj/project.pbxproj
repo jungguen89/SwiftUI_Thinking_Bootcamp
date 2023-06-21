@@ -63,6 +63,7 @@
 		ADEA90332A41BF67003EE6F3 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90322A41BF67003EE6F3 /* OnboardingView.swift */; };
 		ADEA90352A41E675003EE6F3 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90342A41E675003EE6F3 /* ProfileView.swift */; };
 		ADEA90372A428860003EE6F3 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90362A428860003EE6F3 /* AsyncImageBootcamp.swift */; };
+		ADEA90392A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90382A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 		ADEA90322A41BF67003EE6F3 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		ADEA90342A41E675003EE6F3 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		ADEA90362A428860003EE6F3 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
+		ADEA90382A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 				ADEA902B2A3C4AD2003EE6F3 /* ViewModelBootcamp.swift */,
 				ADEA902D2A417D9B003EE6F3 /* AppStorageBootcamp.swift */,
 				ADEA90362A428860003EE6F3 /* AsyncImageBootcamp.swift */,
+				ADEA90382A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift */,
 				ADEA90312A41BF41003EE6F3 /* OnboardingView */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
@@ -345,6 +348,7 @@
 				ADEA90332A41BF67003EE6F3 /* OnboardingView.swift in Sources */,
 				AD1FBFC02A0421BE0020F2C5 /* TextBootcamp.swift in Sources */,
 				AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */,
+				ADEA90392A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift in Sources */,
 				AD1FBFF42A279B7F0020F2C5 /* AnimationTimingBootcamp.swift in Sources */,
 				ADE33C0A2A34996000B0E4D4 /* TextfieldBootcamp.swift in Sources */,
 				AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */,
