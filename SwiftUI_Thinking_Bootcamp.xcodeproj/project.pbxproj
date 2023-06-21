@@ -67,6 +67,9 @@
 		ADEA903B2A42974F003EE6F3 /* TextSectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA903A2A42974F003EE6F3 /* TextSectionBootcamp.swift */; };
 		ADEA903D2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA903C2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift */; };
 		ADEA903F2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA903E2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift */; };
+		ADEA90412A42A219003EE6F3 /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90402A42A219003EE6F3 /* BadgesBootcamp.swift */; };
+		ADEA90432A42ACBD003EE6F3 /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90422A42ACBD003EE6F3 /* NavigationStackBootcamp.swift */; };
+		ADEA90452A42DB23003EE6F3 /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEA90442A42DB23003EE6F3 /* ResizableSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -132,6 +135,9 @@
 		ADEA903A2A42974F003EE6F3 /* TextSectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSectionBootcamp.swift; sourceTree = "<group>"; };
 		ADEA903C2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		ADEA903E2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootcamp.swift; sourceTree = "<group>"; };
+		ADEA90402A42A219003EE6F3 /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
+		ADEA90422A42ACBD003EE6F3 /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
+		ADEA90442A42DB23003EE6F3 /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +225,9 @@
 				ADEA903A2A42974F003EE6F3 /* TextSectionBootcamp.swift */,
 				ADEA903C2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift */,
 				ADEA903E2A429D3C003EE6F3 /* ListSwipeActionsBootcamp.swift */,
+				ADEA90402A42A219003EE6F3 /* BadgesBootcamp.swift */,
+				ADEA90422A42ACBD003EE6F3 /* NavigationStackBootcamp.swift */,
+				ADEA90442A42DB23003EE6F3 /* ResizableSheetBootcamp.swift */,
 				ADEA90312A41BF41003EE6F3 /* OnboardingView */,
 				ADDCAB002A2C649D00E1374F /* SwiftBasic.playground */,
 				AD1FBFB52A041E560020F2C5 /* Assets.xcassets */,
@@ -336,12 +345,14 @@
 				AD1FBFE62A24A3D60020F2C5 /* ExtractSubviewsBootcamp.swift in Sources */,
 				AD1FBFD62A166AC70020F2C5 /* initializerBootcamp.swift in Sources */,
 				ADDCAAFF2A29DF0B00E1374F /* TransitionBootcamp.swift in Sources */,
+				ADEA90452A42DB23003EE6F3 /* ResizableSheetBootcamp.swift in Sources */,
 				AD6FFDD92A31C89F00F6F7C3 /* AlertBootcamp.swift in Sources */,
 				ADDCAB042A2DEB2A00E1374F /* PopoverBootcamp.swift in Sources */,
 				ADEA902C2A3C4AD2003EE6F3 /* ViewModelBootcamp.swift in Sources */,
 				AD1FBFE42A2431530020F2C5 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				AD1FBFC42A0896D90020F2C5 /* ColorsBootcamp.swift in Sources */,
 				ADE33C102A37425A00B0E4D4 /* PickerBootcamp.swift in Sources */,
+				ADEA90432A42ACBD003EE6F3 /* NavigationStackBootcamp.swift in Sources */,
 				AD1FBFC22A0429BF0020F2C5 /* ShapeBootcamp.swift in Sources */,
 				ADEA903D2A4299C1003EE6F3 /* ButtonStyleBootcamp.swift in Sources */,
 				AD1FBFE02A23BFCE0020F2C5 /* ButtonsBootcamp.swift in Sources */,
@@ -362,6 +373,7 @@
 				AD1FBFF22A277FF70020F2C5 /* AnimationBootcamp.swift in Sources */,
 				ADEA90392A428DF7003EE6F3 /* BackgroundMaterialBootcamp.swift in Sources */,
 				AD1FBFF42A279B7F0020F2C5 /* AnimationTimingBootcamp.swift in Sources */,
+				ADEA90412A42A219003EE6F3 /* BadgesBootcamp.swift in Sources */,
 				ADE33C0A2A34996000B0E4D4 /* TextfieldBootcamp.swift in Sources */,
 				AD1FBFE82A24AA100020F2C5 /* BindingBootcamp.swift in Sources */,
 				ADDCAB022A2CBD4C00E1374F /* SheetsBootcamp.swift in Sources */,
