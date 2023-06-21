@@ -57,9 +57,31 @@ struct BackgroundMaterialBootcamp_Previews: PreviewProvider {
 
 struct thirdScreen: View {
     
+    let url = URL(string: "https://picsum.photos/400")
+    
     var body: some View {
         VStack {
             Text("third Screen")
+            
+            AsyncImage(url: url) { phase in
+                switch phase {
+                case .empty:
+                    ProgressView()
+                case.success(let returnedImage):
+                    returnedImage
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 200, height: 200)
+                        .cornerRadius(20)
+                case.failure:
+                    Image(systemName: "questionmark")
+                        .font(.headline)
+                default:
+                    Image(systemName: "questionmark")
+                        .font(.headline)
+                }
+            }
+            
                 
         }
         .presentationDetents([.medium, .large])
